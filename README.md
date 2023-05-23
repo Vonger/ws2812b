@@ -1,5 +1,5 @@
 # ws2812b
-VoCore2 WS2812B driver, support upto 1024 LEDs, CPU usage less than 1%
+VoCore2 WS2812B driver, use I2S interface, support upto 1024 LEDs, CPU usage less than 1%
 
 More information please check http://vonger.cn/?p=14302
 
